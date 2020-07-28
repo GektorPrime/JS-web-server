@@ -1,0 +1,22 @@
+{
+  "name": "js_automation",
+  "version": "1.0.0",
+  "description": "tested test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "test"
+  },
+  "author": "Alex Reign",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
+    "npm": "^6.14.7",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
